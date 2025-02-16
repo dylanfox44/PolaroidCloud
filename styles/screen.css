@@ -28,3 +28,36 @@ main {
     margin: 0 auto;
     width: 1000px;
 }
+
+.hero {
+    text-align: center;
+}
+
+.hero h2 { 
+    font-size: 9em;
+    line-height: 1em;
+    text-transform: uppercase; 
+    margin: 0;
+}
+
+.details ul li {
+    list-style: none;
+    margin: 10px 0;
+    padding: 0 0 0 40px;
+}
+
+.details ul li.wifi { 
+    background: url('wifi-solid.svg') no-repeat center left;
+}
+
+.details ul li.cloud { 
+    background: url('cloud-arrow-up-solid.svg') no-repeat center left;
+}
+
+.details ul li.qr { 
+    background: url('qrcode-solid.svg') no-repeat center left;
+}
+
+.details ul li.photo { 
+    background: url('photo-film-solid.svg') no-repeat center left;
+}
