@@ -52,7 +52,7 @@ main {
 }
 
 .details ul li.wifi { 
-    background: url('wifi-solid.svg') no-repeat center left;
+    background: url('/images/wifi-solid.svg') no-repeat center left;
 }
 
 .details ul li.cloud { 
