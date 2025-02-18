@@ -30,14 +30,14 @@ h3 {
 }
 
 main { 
-    background: url('/images/polaroid.png');
+    background: url('/images/polaroid.png') no-repeat center 250px;
     margin: 0 auto;
     width: 1000px;
 }
 
 .hero {
     text-align: center;
-    min-height: 800px;
+    min-height: 1000px;
 }
 
 .hero h2 { 
